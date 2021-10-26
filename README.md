@@ -14,4 +14,3 @@ Create a simple Adobe Animate project. Incorporate animation elements into the p
 
 6)   One   motion tween
 
-THE PROJECT MUST BE SUBMI
